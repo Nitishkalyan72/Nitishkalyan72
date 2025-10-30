@@ -28,8 +28,8 @@ Currently working at **Cloudshope Technologies**, where I **design, train, and d
 
 ### 🧠 Core Skills
 
-`Machine Learning` • `Deep Learning` • `Data Preprocessing` • `Model Deployment` • `Python` • `FastAPI` • `Flask` • `Streamlit`  
-`Scikit-learn` • `TensorFlow` • `PyTorch` • `XGBoost` • `Data Visualization` • `SQL` 
+`Machine Learning` • `Deep Learning` • `NLP` • `Data Preprocessing` • `Model Deployment` • `Python` • `FastAPI` • `Flask` • `Streamlit`  
+`Scikit-learn` • `TensorFlow` • `PyTorch` • `XGBoost` • `Data Visualization` • `SQL` • `JAVA` 
 
 ---
 ⭐ *“Data is the new oil — I just make it fuel your business engine.”*
